@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Война и мир</title>
+<title>Один блок</title>
 	
 <style>
 body {
@@ -10,25 +10,7 @@ width: 99%;
 background: #f8f8f8;
 font-family: Helvetica;
 }
-::-webkit-scrollbar {
-  width: 10px;
-}
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 0px grey; 
-  border: 1px solid #EDEDED;
-  border-radius: 4px;
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: gray; 
-  border-radius: 4px;
-  outline: 1px solid #EDEDED;
-}
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background:  #000000; 
-}
+
 .ourtext {
 width: 96%; 
 height: 590px; 
