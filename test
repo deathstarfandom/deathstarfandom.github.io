@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Один блок</title>
+<title>3D view</title>
 	
 <style>
 body {
@@ -10,28 +10,12 @@ width: 99%;
 background: #f8f8f8;
 font-family: Helvetica;
 }
-
-.ourtext {
-width: 96%; 
-height: 590px; 
-overflow-x: hidden; 
-overflow-y: scroll; 
-padding-top: 0;
-padding-right: 10px; 
-text-align: justify; 
-color: #000000; 
-font-size:15px; 
-line-height:22px; 
-font-family: Helvetica; 
-margin: 0 auto;
-}
 </style>
 </head>
 
-<body><div class="ourtext">
+<body>
 
 12345
 
-</div>
 </body>
 </html>
